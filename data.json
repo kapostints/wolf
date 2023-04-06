@@ -1,31 +1,31 @@
 [
   {
-    "session_id": "1",
-    "session_image": "https://res.cloudinary.com/cupcake-29k/image/upload/v1674395876/Images/card2_Drop_all_requirements_vd3gwl.png",
+    "sessionId": "1",
+    "sessionImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1674395876/Images/card2_Drop_all_requirements_vd3gwl.png",
     "tag": "30 min",
-    "session_title": "Drop all requirements",
-    "host_image": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413154/Contributors/Lisa%20L%C3%B6%C3%B6f.jpg",
-    "host_name": "Lisa Lööf",
+    "sessionTitle": "Drop all requirements",
+    "hostImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413154/Contributors/Lisa%20L%C3%B6%C3%B6f.jpg",
+    "hostName": "Lisa Lööf",
     "time": "2022-04-06T10:30:00Z",
     "icon": "https://example.com/icon1.jpg"
   },
   {
-    "session_id": "2",
-    "session_image": "https://res.cloudinary.com/cupcake-29k/image/upload/v1678973954/Images/card_image_breathing_anchor_vibuvl.png"
+    "sessionId": "2",
+    "sessionImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1678973954/Images/card_image_breathing_anchor_vibuvl.png"
     "tag": "30 min",
-    "session_title": "Breathing anchor",
-    "host_image": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413106/Contributors/Johanna%20Schwang.png",
-    "host_name": "Johanna Schwang",
+    "sessionTitle": "Breathing anchor",
+    "hostImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413106/Contributors/Johanna%20Schwang.png",
+    "hostName": "Johanna Schwang",
     "time": "2022-04-05T08:15:00Z",
     "icon": "https://example.com/icon2.jpg"
   },
   {
-    "session_id": "3",
+    "sessionId": "3",
     "image": "https://res.cloudinary.com/cupcake-29k/image/upload/v1674395860/Images/card_setting_boundaries_yrv35w.png" 
     "tag": "30 min",
-    "session_title": "Setting boundaries",
-    "host_image": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413228/Contributors/Jenny%20Rickardsson.jpg",
-    "host_name": "Jenny Rickardsson ",
+    "sessionTitle": "Setting boundaries",
+    "hostImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413228/Contributors/Jenny%20Rickardsson.jpg",
+    "hostName": "Jenny Rickardsson ",
     "time": "2022-04-04T14:45:00Z",
     "icon": "https://example.com/icon3.jpg"
    }
