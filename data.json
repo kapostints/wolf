@@ -11,7 +11,7 @@
   },
   {
     "sessionId": "2",
-    "sessionImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1678973954/Images/card_image_breathing_anchor_vibuvl.png"
+    "sessionImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1678973954/Images/card_image_breathing_anchor_vibuvl.png",
     "tag": "30 min",
     "sessionTitle": "Breathing anchor",
     "hostImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413106/Contributors/Johanna%20Schwang.png",
@@ -21,7 +21,7 @@
   },
   {
     "sessionId": "3",
-    "image": "https://res.cloudinary.com/cupcake-29k/image/upload/v1674395860/Images/card_setting_boundaries_yrv35w.png" 
+    "image": "https://res.cloudinary.com/cupcake-29k/image/upload/v1674395860/Images/card_setting_boundaries_yrv35w.png", 
     "tag": "30 min",
     "sessionTitle": "Setting boundaries",
     "hostImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413228/Contributors/Jenny%20Rickardsson.jpg",
