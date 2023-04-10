@@ -2,12 +2,13 @@
   {
     "sessionId": "1",
     "sessionImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1674395876/Images/card2_Drop_all_requirements_vd3gwl.png",
-    "tag": "9 min",
+    "tag": "30 min",
     "sessionTitle": "Drop all requirements",
     "hostImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413154/Contributors/Lisa%20L%C3%B6%C3%B6f.jpg",
     "hostName": "Lisa Lööf",
     "time": "2022-04-06T10:30:00Z",
-    "icon": "https://example.com/icon1.jpg"
+    "icon": "https://example.com/icon1.jpg",
+    "sessionLink": "https://29k.org/"
   },
   {
     "sessionId": "2",
@@ -17,7 +18,8 @@
     "hostImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413106/Contributors/Johanna%20Schwang.png",
     "hostName": "Johanna Schwang",
     "time": "2022-04-05T08:15:00Z",
-    "icon": "https://example.com/icon2.jpg"
+    "icon": "https://example.com/icon2.jpg",
+    "sessionLink": "https://29k.org/"
   },
   {
     "sessionId": "3",
@@ -27,7 +29,8 @@
     "hostImage": "https://res.cloudinary.com/cupcake-29k/image/upload/v1665413228/Contributors/Jenny%20Rickardsson.jpg",
     "hostName": "Jenny Rickardsson ",
     "time": "2022-04-04T14:45:00Z",
-    "icon": "https://example.com/icon3.jpg"
+    "icon": "https://example.com/icon3.jpg",
+    "sessionLink": "https://29k.org/"
    }
 ] 
     
